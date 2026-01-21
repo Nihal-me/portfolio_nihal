@@ -29,9 +29,9 @@ export default function About({ darkMode }: AboutProps = {}) {
               <div className="w-32 h-32 mx-auto mb-6 rounded-full bg-gradient-to-br from-blue-500 to-gray-600 flex items-center justify-center shadow-2xl">
                 <User className="w-16 h-16 text-white" />
               </div>
-              <h3 className="text-2xl font-bold text-center mb-4 text-gray-900 dark:text-white">Développeuse Full Stack</h3>
+              <h3 className="text-2xl font-bold text-center mb-4 text-gray-900 dark:text-white">Ingénieure Logicielle & Data / IA</h3>
               <p className="text-gray-600 dark:text-gray-300 leading-relaxed text-center">
-                Passionnée par le développement web et la data science, je crée des applications innovantes avec Vue.js, Node.js et technologies cloud
+                Double expertise en développement logiciel full stack et science des données. Conception de systèmes intelligents alliant applications web performantes et modèles prédictifs
               </p>
             </div>
           </div>
@@ -45,8 +45,7 @@ export default function About({ darkMode }: AboutProps = {}) {
                 <div>
                   <h4 className="text-xl font-semibold mb-2 text-gray-900 dark:text-white">Expérience Professionnelle</h4>
                   <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                    Actuellement développeuse full stack chez IRT-Railenium, spécialisée en Vue.js, Node.js,
-                    Machine Learning et déploiement cloud (AWS). Projets d'optimisation ferroviaire et data science.
+                    Ingénieure chez IRT Railenium. Conception d'outils décisionnels ferroviaires alliant modélisation prédictive (Machine Learning), développement web (Vue.js, Node.js) et déploiement cloud (AWS).
                   </p>
                 </div>
               </div>
@@ -60,8 +59,7 @@ export default function About({ darkMode }: AboutProps = {}) {
                 <div>
                   <h4 className="text-xl font-semibold mb-2 text-gray-900 dark:text-white">Formation & Compétences</h4>
                   <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                    Master Web et Science de Données (ULCO). Stack technique : Vue.js, Node.js, Spring Boot,
-                    Python (ML), MySQL, AWS. Méthodologies Agile, CI/CD avec Jenkins, analyse de données.
+                    Diplômée d'un Master Web et Sciences de Données à l'Université du Littoral Côte d'Opale (Calais). Compétences acquises : développement web, modélisation prédictive, apprentissage automatique, optimisation, Big Data, méthodologies Agile et DevOps.
                   </p>
                 </div>
               </div>

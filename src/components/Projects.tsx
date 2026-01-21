@@ -85,7 +85,7 @@ export default function Projects({ darkMode }: ProjectsProps = {}) {
       description: 'Système de réservation en ligne pour restaurants avec gestion des tables et menu digital.',
       image: 'https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=800',
       tags: ['Vue.js', 'Laravel', 'MySQL', 'Twilio'],
-      category: 'Développement Web'
+      category: 'Développement Web - Mobile'
     },
 
     {
