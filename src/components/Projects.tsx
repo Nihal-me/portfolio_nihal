@@ -74,6 +74,20 @@ export default function Projects({ darkMode }: ProjectsProps = {}) {
       category: 'IA & Simulation'
     },
     {
+      title: 'Bibliothèque ULCO',
+      description: 'Application web de gestion intégrale d\'une bibliothèque universitaire. Gestion efficace des livres disponibles, des emprunts des étudiants et des retours. Backend Spring Boot avec architecture modulaire, API REST et persistence des données. Frontend Vue.js avec interface utilisateur réactive et intuitive.',
+      image: 'https://images.pexels.com/photos/2908984/pexels-photo-2908984.jpeg?auto=compress&cs=tinysrgb&w=800',
+      tags: ['JavaEE', 'Spring Boot', 'Hibernate', 'Vue.js', 'Bootstrap'],
+      category: 'Développement Web - Mobile'
+    },
+    {
+      title: 'Agence de tourisme : MyTrip',
+      description: 'Plateforme complète de gestion de voyages développée en équipe. Système de réservations, gestion des utilisateurs et des offres avec intégration des API externes OSM et Google Maps pour enrichir l\'expérience utilisateur. Frontend Vue.js, backend Node.js, testé avec Postman pour garantir une performance optimale.',
+      image: 'https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&w=800',
+      tags: ['Vue.js', 'Node.js', 'Postman', 'Tailwind CSS'],
+      category: 'Développement Web - Mobile'
+    },
+    {
       title: 'Fitness Tracker Mobile',
       description: 'Application mobile de suivi sportif avec GPS, statistiques et programmes d\'entraînement.',
       image: 'https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=800',
